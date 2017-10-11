@@ -1,0 +1,2 @@
+# clippy
+Clipboard Manager
